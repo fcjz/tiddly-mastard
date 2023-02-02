@@ -1,0 +1,31 @@
+{
+  "name": "tiddly-mastard",
+  "version": "1.0.0",
+  "description": "\"peer-to-peer TiddlyWiki browser\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fcjz/tiddly-mastard.git"
+  },
+  "keywords": [
+    "TiddlyWiki",
+    "electron",
+    "digital",
+    "garden",
+    "peer-to-peer",
+    "PKM"
+  ],
+  "author": "fcjz",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/fcjz/tiddly-mastard/issues"
+  },
+  "homepage": "https://github.com/fcjz/tiddly-mastard#readme",
+  "devDependencies": {
+    "electron": "^22.2.0"
+  }
+}
